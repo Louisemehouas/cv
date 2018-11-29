@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: gainsboro
+}
+#presentation {
+    height:400px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    justify-content: space-between;
+}
+#photo {
+    margin-bottom: 50px;
+    margin-right: 40px;
+
+}
+
+.col-10{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.col-4 {
+    display: flex;
+    justify-content: space-between;
+}
+.par1 {
+    flex-direction: row
+}
